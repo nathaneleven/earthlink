@@ -2,7 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: "Titillium Web", Helvetica Neue, sans-serif;
+  font-family: Montserrat, Helvetica Neue, sans-serif;
 }
 
 a {
@@ -14,6 +14,10 @@ a {
   box-sizing: border-box;
 }
 
-h1, h2, h3, h4 {
-  color:#003767;
+h1, h2{
+  color:#444444;
+}
+
+h3{
+  color: #007DBA;
 }

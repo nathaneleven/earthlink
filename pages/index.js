@@ -4,8 +4,8 @@ import Hero from '../src/components/organisms/Hero'
 import Cta from '../src/components/organisms/Cta'
 import Plans from '../src/components/organisms/Plans'
 import About from '../src/components/organisms/About'
-import Services from '../src/components/organisms/Services'
-import Awards from '../src/components/organisms/Awards'
+import Advantages from '../src/components/organisms/Advantages'
+import SaferInfo from '../src/components/organisms/SaferInfo'
 
 export default function Home() {
   return (
@@ -15,8 +15,8 @@ export default function Home() {
       <Cta />
       <Plans/>
       <About/>
-      <Awards/>
-      <Services/>
+      <Advantages/>
+      <SaferInfo/>
       <Footer/>
     </div>
   )
